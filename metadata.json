@@ -1,0 +1,6 @@
+{
+  "name": "MyFinance",
+  "description": "Aplikasi pencatatan keuangan pribadi dengan fitur laporan grafik bulanan, sinkronisasi otomatis, ekspor PDF, tips hemat AI, dan chatbot asisten anggaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

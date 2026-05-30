@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer accent decorative ring -->
+    <path
+        android:fillColor="#153E3B"
+        android:pathData="M54,54 m-36,0 a36,36 0,1 1,72,0 a36,36 0,1 1,-72,0" />
+
+    <!-- Wallet Body Base (Teal/Mint shades) -->
+    <path
+        android:fillColor="#E6F7F5"
+        android:pathData="M32,38 h44 c3.3,0 6,2.7 6,6 v24 c0,3.3 -2.7,6 -6,6 H32c-3.3,0 -6,-2.7 -6,-6 V44c0,-3.3 2.7,-6 6,-6 z" />
+
+    <!-- Wallet flap -->
+    <path
+        android:fillColor="#008B8B"
+        android:pathData="M60,46 h18 c2.2,0 4,1.8 4,4 v8 c0,2.2 -1.8,4 -4,4 H60c-1.1,0 -2,-0.9 -2,-2 V48c0,-1.1 0.9,-2 2,-2 z" />
+
+    <!-- Flap lock button -->
+    <path
+        android:fillColor="#4AD8C5"
+        android:pathData="M68,54 m-3,0 a3,3 0,1 1,6,0 a3,3 0,1 1,-6,0" />
+
+    <!-- Emerging coins representing wealth growth -->
+    <path
+        android:fillColor="#4AD8C5"
+        android:pathData="M42,34 m-5,0 a5,5 0,1 1,10,0 a5,5 0,1 1,-10,0" />
+    <path
+        android:fillColor="#00D2C4"
+        android:pathData="M54,30 m-5,0 a5,5 0,1 1,10,0 a5,5 0,1 1,-10,0" />
+
+    <!-- Decorative Dollar Sign on wallet body -->
+    <path
+        android:fillColor="#006666"
+        android:pathData="M44,46 c0,-1 1,-2 2.5,-2 c1.5,0 2.5,1 2.5,2 l0,2 c0,1 -1,2 -2.5,2 c-1.5,0 -2.5,1 -2.5,2 l0,2 c0,1 1,2 2.5,2" />
+    <path
+        android:strokeColor="#006666"
+        android:strokeWidth="1.2"
+        android:pathData="M46.5,42 L46.5,58" />
+</vector>
